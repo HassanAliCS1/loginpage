@@ -1,0 +1,34 @@
+POST http://localhost:3000/users
+Content-Type: application/json
+Content-Length: 49
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Hassan",
+  "password": "password"
+
+}
+
+<> 2023-09-11T142649.500.html
+
+###
+
+POST http://localhost:3000/users
+Content-Type: application/json
+Content-Length: 49
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "Hassan",
+  "password": "password"
+
+}
+
+<> 2023-09-11T135653.500.html
+
+###
+
